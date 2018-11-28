@@ -1,0 +1,6 @@
+[General]
+name=/super/test
+
+[restraint]
+no_localwatchdog=true
+
