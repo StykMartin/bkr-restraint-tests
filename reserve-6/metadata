@@ -1,5 +1,5 @@
 [General]
-name=/super/test
+name=/super/test/6
 
 [restraint]
 no_localwatchdog=true
