@@ -2,4 +2,7 @@
 
 . /usr/bin/rhts_environment.sh
 
-rhts-test-checkin 10d
+echo $HARNESS_PREFIX
+echo $RSTRNT_RECIPE_URL
+rhts-test-checkin 15d
+echo $?
