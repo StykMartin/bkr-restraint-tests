@@ -1,0 +1,6 @@
+[General]
+name=/mstyk/rhts-reboot-test
+
+[restraint]
+no_localwatchdog=true
+
